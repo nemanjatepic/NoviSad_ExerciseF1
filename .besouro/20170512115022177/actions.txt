@@ -34,3 +34,8 @@ EditAction 1494583709064 Frame.java 788 6 7 0
 RefactoringAction 1494583730280 TestBowling.java ADD void test_isNotSpare()/2 METHOD
 RefactoringAction 1494583736296 TestBowling.java RENAME test_isNotSpare()/2=>void test_isScore() METHOD
 EditAction 1494583808002 TestBowling.java 684 5 10 5
+UnitTestCaseAction 1494583820283 TestBowling.java OK
+UnitTestSessionAction 1494583820286 TestBowling.java OK
+RefactoringAction 1494583830078 TestBowling.java ADD void test_isNotSpare()/2 METHOD
+RefactoringAction 1494583834596 TestBowling.java RENAME test_isNotSpare()/2=>void test_isNotScore() METHOD
+EditAction 1494583914076 TestBowling.java 814 6 12 6
