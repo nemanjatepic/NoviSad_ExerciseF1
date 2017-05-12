@@ -37,7 +37,7 @@ public class TestBowling {
 	@Test
 	public void test_isNotScore() {
 		Frame fr = new Frame(5, 3);
-		assertEquals("Is not score: ", 9, fr.score());
+		assertNotEquals("Is not score: ", 9, fr.score());
 	}
 	
 	

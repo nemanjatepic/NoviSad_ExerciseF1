@@ -39,3 +39,6 @@ UnitTestSessionAction 1494583820286 TestBowling.java OK
 RefactoringAction 1494583830078 TestBowling.java ADD void test_isNotSpare()/2 METHOD
 RefactoringAction 1494583834596 TestBowling.java RENAME test_isNotSpare()/2=>void test_isNotScore() METHOD
 EditAction 1494583914076 TestBowling.java 814 6 12 6
+UnitTestCaseAction 1494583926851 TestBowling.java FAIL
+UnitTestSessionAction 1494583926853 TestBowling.java FAIL
+EditAction 1494583934610 TestBowling.java 817 6 12 6
