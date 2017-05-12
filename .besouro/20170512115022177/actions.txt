@@ -50,3 +50,8 @@ CompilationAction 1494584169092 Frame.java
 CompilationAction 1494584184610 Frame.java
 EditAction 1494584197773 BowlingGame.java 689 4 1 0
 EditAction 1494584209915 TestBowling.java 823 6 12 6
+UnitTestCaseAction 1494584221963 TestBowling.java OK
+UnitTestSessionAction 1494584221965 TestBowling.java OK
+UnitTestCaseAction 1494584222127 TestBowling.java OK
+UnitTestSessionAction 1494584222129 TestBowling.java OK
+EditAction 1494584380167 BowlingGame.java 707 4 2 0
