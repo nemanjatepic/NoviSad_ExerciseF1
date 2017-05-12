@@ -62,3 +62,4 @@ EditAction 1494584459573 TestBowling.java 992 7 16 7
 RefactoringAction 1494584626608 BowlingGame.java ADD int bonus/2 FIELD
 RefactoringAction 1494584628122 BowlingGame.java RENAME bonus/2=>int bonusEnd FIELD
 EditAction 1494584634171 BowlingGame.java 716 4 2 0
+EditAction 1494584683783 TestBowling.java 990 7 15 6

@@ -5,7 +5,7 @@ import org.junit.Test;
 public class TestBowling {
 
 	@Test
-	public void test_isFirstThrowStrike() {
+	public void test_isFirstThrowStrike() throws BowlingException {
 		Frame fr = new Frame(10, 0);
 		assertTrue(fr.isStrike());
 	}
@@ -45,7 +45,7 @@ public class TestBowling {
 		BowlingGame game = new BowlingGame();
 		Frame fr = new Frame(5, 3);
 		game.addFrame(fr);
-		assertFalse(fr.isSpare());
+		
 	}
 	
 	
