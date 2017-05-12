@@ -55,17 +55,33 @@ public class TestBowling {
 	}
 	
 	@Test
-	public void test_First1_Second2Score() throws BowlingException {
+	public void test_First1_Second4Score() throws BowlingException {
 		BowlingGame game = new BowlingGame();
 		
 		Frame fr1 = new Frame(1, 4);
 		
 		assertEquals(5, game.score());
-		
-		
 	}
 	
 	
+	@Test
+	public void test_First2_Second4Score() throws BowlingException {
+		BowlingGame game = new BowlingGame();
+		
+		Frame fr1 = new Frame(2, 4);
+		
+		assertEquals(6, game.score());
+	}
+	
+	
+	@Test
+	public void test_First1_Second2Score() throws BowlingException {
+		BowlingGame game = new BowlingGame();
+		
+		Frame fr1 = new Frame(4, 5);
+		
+		assertEquals(9, game.score());
+	}
 	
 	
 	

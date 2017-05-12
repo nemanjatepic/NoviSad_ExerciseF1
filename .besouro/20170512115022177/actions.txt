@@ -101,3 +101,11 @@ EditAction 1494586852796 BowlingGame.java 1163 4 4 0
 RefactoringAction 1494586922860 TestBowling.java RENAME test_First1_Second2()=>void test_First1_Second2Score() METHOD
 EditAction 1494586934511 BowlingGame.java 1173 4 4 0
 EditAction 1494586988371 TestBowling.java 1485 8 22 7
+UnitTestCaseAction 1494586999207 TestBowling.java FAIL
+UnitTestSessionAction 1494586999209 TestBowling.java FAIL
+RefactoringAction 1494587020537 TestBowling.java ADD void test_First1_Second2Score()/2 METHOD
+RefactoringAction 1494587027560 TestBowling.java RENAME test_First1_Second2Score()/2=>void test_First2_Second2Score() METHOD
+RefactoringAction 1494587029574 TestBowling.java RENAME test_First2_Second2Score()=>void test_First2_Second4Score() METHOD
+RefactoringAction 1494587037100 TestBowling.java RENAME test_First1_Second2Score()=>void test_First1_Second4Score() METHOD
+RefactoringAction 1494587040611 TestBowling.java ADD void test_First1_Second2Score() METHOD
+EditAction 1494587075424 TestBowling.java 1871 10 28 9
