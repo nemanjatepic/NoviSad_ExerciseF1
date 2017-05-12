@@ -112,3 +112,10 @@ EditAction 1494587075424 TestBowling.java 1871 10 28 9
 RefactoringAction 1494587085689 TestBowling.java RENAME test_First1_Second2Score()=>void test_First4_Second2Score() METHOD
 RefactoringAction 1494587087699 TestBowling.java RENAME test_First4_Second2Score()=>void test_First4_Second5Score() METHOD
 EditAction 1494587087952 TestBowling.java 1871 10 28 9
+UnitTestCaseAction 1494587096580 TestBowling.java FAIL
+UnitTestSessionAction 1494587096582 TestBowling.test_First4_Second5Score FAIL
+UnitTestCaseAction 1494587140771 TestBowling.java FAIL
+UnitTestSessionAction 1494587140773 TestBowling.java FAIL
+UnitTestCaseAction 1494587165577 TestBowling.java FAIL
+UnitTestSessionAction 1494587165579 TestBowling.java FAIL
+EditAction 1494587199845 TestBowling.java 1881 10 28 9
