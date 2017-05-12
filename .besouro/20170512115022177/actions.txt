@@ -1,2 +1,7 @@
 FileOpenedAction 1494582622746 TestBowling.java 165 1 1 0
 EditAction 1494583193963 Frame.java 712 6 7 0
+RefactoringAction 1494583237810 TestBowling.java RENAME test()=>void test_() METHOD
+RefactoringAction 1494583241824 TestBowling.java RENAME test_()=>void test_isFirstTh() METHOD
+RefactoringAction 1494583242843 TestBowling.java RENAME test_isFirstTh()=>void test_isFirstThrow() METHOD
+RefactoringAction 1494583245365 TestBowling.java RENAME test_isFirstThrow()=>void test_isFirstThrowStrike() METHOD
+EditAction 1494583295489 TestBowling.java 201 1 0 0
