@@ -18,3 +18,8 @@ EditAction 1494583424107 TestBowling.java 336 2 4 2
 UnitTestCaseAction 1494583435083 TestBowling.java OK
 UnitTestSessionAction 1494583435085 TestBowling.java OK
 EditAction 1494583495842 Frame.java 767 6 7 0
+RefactoringAction 1494583528922 TestBowling.java ADD void test_isNotFirstThrowStrike()/2 METHOD
+RefactoringAction 1494583533436 TestBowling.java RENAME test_isNotFirstThrowStrike()/2=>void test_isFirstThrowStrike()/2 METHOD
+RefactoringAction 1494583536449 TestBowling.java RENAME test_isFirstThrowStrike()/2=>void test_isFirstThrowSt() METHOD
+RefactoringAction 1494583542472 TestBowling.java RENAME test_isFirstThrowSt()=>void test_isSpare() METHOD
+EditAction 1494583567534 TestBowling.java 448 3 6 3
