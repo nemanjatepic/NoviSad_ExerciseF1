@@ -109,3 +109,6 @@ RefactoringAction 1494587029574 TestBowling.java RENAME test_First2_Second2Score
 RefactoringAction 1494587037100 TestBowling.java RENAME test_First1_Second2Score()=>void test_First1_Second4Score() METHOD
 RefactoringAction 1494587040611 TestBowling.java ADD void test_First1_Second2Score() METHOD
 EditAction 1494587075424 TestBowling.java 1871 10 28 9
+RefactoringAction 1494587085689 TestBowling.java RENAME test_First1_Second2Score()=>void test_First4_Second2Score() METHOD
+RefactoringAction 1494587087699 TestBowling.java RENAME test_First4_Second2Score()=>void test_First4_Second5Score() METHOD
+EditAction 1494587087952 TestBowling.java 1871 10 28 9

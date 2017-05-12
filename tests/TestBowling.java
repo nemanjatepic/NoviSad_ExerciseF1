@@ -75,7 +75,7 @@ public class TestBowling {
 	
 	
 	@Test
-	public void test_First1_Second2Score() throws BowlingException {
+	public void test_First4_Second5Score() throws BowlingException {
 		BowlingGame game = new BowlingGame();
 		
 		Frame fr1 = new Frame(4, 5);
