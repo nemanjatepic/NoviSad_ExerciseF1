@@ -100,3 +100,4 @@ EditAction 1494586811270 TestBowling.java 1572 8 26 6
 EditAction 1494586852796 BowlingGame.java 1163 4 4 0
 RefactoringAction 1494586922860 TestBowling.java RENAME test_First1_Second2()=>void test_First1_Second2Score() METHOD
 EditAction 1494586934511 BowlingGame.java 1173 4 4 0
+EditAction 1494586988371 TestBowling.java 1485 8 22 7
