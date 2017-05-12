@@ -97,3 +97,4 @@ RefactoringAction 1494586804721 TestBowling.java RENAME test_First1FrameAdded()=
 RefactoringAction 1494586807733 TestBowling.java RENAME test_First1_FrameAdded()=>void test_First1_Second2FrameAdded() METHOD
 RefactoringAction 1494586810744 TestBowling.java RENAME test_First1_Second2FrameAdded()=>void test_First1_Second2() METHOD
 EditAction 1494586811270 TestBowling.java 1572 8 26 6
+EditAction 1494586852796 BowlingGame.java 1163 4 4 0
