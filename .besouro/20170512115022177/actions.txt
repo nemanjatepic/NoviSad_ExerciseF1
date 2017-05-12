@@ -46,3 +46,6 @@ UnitTestCaseAction 1494583944771 TestBowling.java OK
 UnitTestSessionAction 1494583944773 TestBowling.java OK
 RefactoringAction 1494584153645 Frame.java ADD int bonus FIELD
 EditAction 1494584156603 Frame.java 816 6 6 0
+CompilationAction 1494584169092 Frame.java
+CompilationAction 1494584184610 Frame.java
+EditAction 1494584197773 BowlingGame.java 689 4 1 0
