@@ -11,6 +11,8 @@ public class BowlingGame {
 	private Frame bonus;
 	private int bonusEnd = 0;
 	
+	int score = 0;
+	
 	public BowlingGame(){}
 	
 	// adds a frame to the game
@@ -20,12 +22,23 @@ public class BowlingGame {
 	
 	// Sets the bonus throws at the end of the game
 	public void setBonus(int firstThrow, int secondThrow) {
-		
+		for(int i =0; i<frames.size(); i++)
+		{
+			if(frames.get(i) )
+			{
+				
+			}
+		}
 	}
 	
 	// Returns the game score
 	public int score(){
 		//to be implemented: should return game score 
+		
+		for(int i=0; i<frames.size(); i++)
+		{
+			score += frames.get(i);
+		}
 		return 0;
 	}
 }

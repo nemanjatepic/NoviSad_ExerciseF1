@@ -52,8 +52,10 @@ public class TestBowling {
 		game.addFrame(fr2);
 		game.addFrame(fr3);
 		
-		assertEquals(game.addFrame(fr1), 1);
+		
 	}
+
+	
 	
 	
 	

@@ -69,3 +69,10 @@ EditAction 1494584719668 TestBowling.java 1134 7 15 6
 UnitTestCaseAction 1494584740458 TestBowling.java OK
 UnitTestSessionAction 1494584740459 TestBowling.java OK
 EditAction 1494585689648 TestBowling.java 1300 7 20 7
+CompilationAction 1494585697754 TestBowling.java
+RefactoringAction 1494585706981 TestBowling.java ADD void assertEquals(Object, int) METHOD
+RefactoringAction 1494585722222 TestBowling.java REMOVE assertEquals(Object, int) METHOD
+CompilationAction 1494585729841 TestBowling.java
+RefactoringAction 1494585809115 BowlingGame.java ADD int s FIELD
+RefactoringAction 1494585814640 BowlingGame.java RENAME s=>int score FIELD
+EditAction 1494585851198 BowlingGame.java 902 4 4 0
