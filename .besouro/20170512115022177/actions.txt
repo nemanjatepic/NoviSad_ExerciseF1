@@ -59,3 +59,6 @@ RefactoringAction 1494584400307 TestBowling.java ADD void test_isNotSpare()/2 ME
 RefactoringAction 1494584406334 TestBowling.java RENAME test_isNotSpare()/2=>void test_isFra() METHOD
 RefactoringAction 1494584411347 TestBowling.java RENAME test_isFra()=>void test_isFrameAdded() METHOD
 EditAction 1494584459573 TestBowling.java 992 7 16 7
+RefactoringAction 1494584626608 BowlingGame.java ADD int bonus/2 FIELD
+RefactoringAction 1494584628122 BowlingGame.java RENAME bonus/2=>int bonusEnd FIELD
+EditAction 1494584634171 BowlingGame.java 716 4 2 0
