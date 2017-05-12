@@ -28,6 +28,13 @@ public class TestBowling {
 		assertFalse(fr.isSpare());
 	}
 	
+	@Test
+	public void test_isScore() {
+		Frame fr = new Frame(5, 3);
+		assertEquals("Is score: ", 8, fr.score());
+	}
+	
+	
 	
 
 }
