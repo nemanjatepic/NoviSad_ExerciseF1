@@ -55,3 +55,7 @@ UnitTestSessionAction 1494584221965 TestBowling.java OK
 UnitTestCaseAction 1494584222127 TestBowling.java OK
 UnitTestSessionAction 1494584222129 TestBowling.java OK
 EditAction 1494584380167 BowlingGame.java 707 4 2 0
+RefactoringAction 1494584400307 TestBowling.java ADD void test_isNotSpare()/2 METHOD
+RefactoringAction 1494584406334 TestBowling.java RENAME test_isNotSpare()/2=>void test_isFra() METHOD
+RefactoringAction 1494584411347 TestBowling.java RENAME test_isFra()=>void test_isFrameAdded() METHOD
+EditAction 1494584459573 TestBowling.java 992 7 16 7

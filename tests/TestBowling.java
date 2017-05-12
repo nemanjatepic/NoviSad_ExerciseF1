@@ -40,7 +40,13 @@ public class TestBowling {
 		assertNotEquals("Is not score: ", 9, fr.score());
 	}
 	
-	
+	@Test
+	public void test_isFrameAdded() {
+		BowlingGame game = new BowlingGame();
+		Frame fr = new Frame(5, 3);
+		game.addFrame(fr);
+		assertFalse(fr.isSpare());
+	}
 	
 	
 	
