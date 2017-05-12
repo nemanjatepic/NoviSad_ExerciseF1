@@ -42,3 +42,7 @@ EditAction 1494583914076 TestBowling.java 814 6 12 6
 UnitTestCaseAction 1494583926851 TestBowling.java FAIL
 UnitTestSessionAction 1494583926853 TestBowling.java FAIL
 EditAction 1494583934610 TestBowling.java 817 6 12 6
+UnitTestCaseAction 1494583944771 TestBowling.java OK
+UnitTestSessionAction 1494583944773 TestBowling.java OK
+RefactoringAction 1494584153645 Frame.java ADD int bonus FIELD
+EditAction 1494584156603 Frame.java 816 6 6 0
