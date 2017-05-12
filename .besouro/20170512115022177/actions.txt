@@ -119,3 +119,13 @@ UnitTestSessionAction 1494587140773 TestBowling.java FAIL
 UnitTestCaseAction 1494587165577 TestBowling.java FAIL
 UnitTestSessionAction 1494587165579 TestBowling.java FAIL
 EditAction 1494587199845 TestBowling.java 1881 10 28 9
+CompilationAction 1494587207607 TestBowling.java
+CompilationAction 1494587207609 TestBowling.java
+CompilationAction 1494587235744 TestBowling.java
+CompilationAction 1494587235746 TestBowling.java
+CompilationAction 1494587236055 TestBowling.java
+CompilationAction 1494587236057 TestBowling.java
+UnitTestCaseAction 1494587257003 TestBowling.java FAIL
+UnitTestSessionAction 1494587257005 TestBowling.java FAIL
+RefactoringAction 1494587296632 TestBowling.java REMOVE test_isFrameAdded() METHOD
+EditAction 1494587299198 TestBowling.java 1533 9 21 9

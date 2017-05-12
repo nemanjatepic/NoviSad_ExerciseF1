@@ -41,26 +41,10 @@ public class TestBowling {
 	}
 	
 	@Test
-	public void test_isFrameAdded() throws BowlingException {
-		BowlingGame game = new BowlingGame();
-		
-		Frame fr1 = new Frame(5, 3);
-		Frame fr2 = new Frame(4, 4);
-		Frame fr3 = new Frame(3, 6);
-		
-		game.addFrame(fr1);
-		game.addFrame(fr2);
-		game.addFrame(fr3);
-		
-		
-		
-	}
-	
-	@Test
 	public void test_First1_Second4Score() throws BowlingException {
 		BowlingGame game = new BowlingGame();
 		
-		game.setBonus(1, 4);
+		game.score();
 		
 		assertEquals(5, game.score());
 	}
@@ -69,7 +53,7 @@ public class TestBowling {
 	@Test
 	public void test_First2_Second4Score() throws BowlingException {
 		BowlingGame game = new BowlingGame();
-		game.setBonus(2, 4);
+		game.score();
 		
 		
 		assertEquals(6, game.score());
@@ -80,9 +64,9 @@ public class TestBowling {
 	public void test_First4_Second5Score() throws BowlingException {
 		BowlingGame game = new BowlingGame();
 		
-		game.setBonus(4, 5);
+		game.score();
 		
-		assertEquals(9, game.setBonus(firstThrow, secondThrow));
+		assertEquals(9, game.score());
 	}
 	
 	
