@@ -76,3 +76,16 @@ CompilationAction 1494585729841 TestBowling.java
 RefactoringAction 1494585809115 BowlingGame.java ADD int s FIELD
 RefactoringAction 1494585814640 BowlingGame.java RENAME s=>int score FIELD
 EditAction 1494585851198 BowlingGame.java 902 4 4 0
+CompilationAction 1494585865118 BowlingGame.java
+CompilationAction 1494585865119 BowlingGame.java
+CompilationAction 1494585952221 BowlingGame.java
+CompilationAction 1494585952518 BowlingGame.java
+CompilationAction 1494585952520 BowlingGame.java
+CompilationAction 1494586308003 BowlingGame.java
+CompilationAction 1494586308309 BowlingGame.java
+CompilationAction 1494586308310 BowlingGame.java
+CompilationAction 1494586630116 BowlingGame.java
+CompilationAction 1494586630433 BowlingGame.java
+CompilationAction 1494586643104 BowlingGame.java
+RefactoringAction 1494586655523 TestBowling.java ADD void test_isNotScore()/2 METHOD
+EditAction 1494586716718 BowlingGame.java 1146 4 4 0
