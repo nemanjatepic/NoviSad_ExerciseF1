@@ -52,8 +52,25 @@ public class TestBowling {
 		game.addFrame(fr2);
 		game.addFrame(fr3);
 		
+	}
+	
+	@Test
+	public void test_First1_Second2() throws BowlingException {
+		BowlingGame game = new BowlingGame();
+		
+		Frame fr1 = new Frame(1, 4);
+		Frame fr2 = new Frame(4, 4);
+		Frame fr3 = new Frame(3, 6);
+		
+		game.addFrame(fr1);
+		game.addFrame(fr2);
+		game.addFrame(fr3);
 		
 	}
+	
+	
+	
+	
 
 	
 	

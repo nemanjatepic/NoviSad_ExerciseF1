@@ -89,3 +89,11 @@ CompilationAction 1494586630433 BowlingGame.java
 CompilationAction 1494586643104 BowlingGame.java
 RefactoringAction 1494586655523 TestBowling.java ADD void test_isNotScore()/2 METHOD
 EditAction 1494586716718 BowlingGame.java 1146 4 4 0
+RefactoringAction 1494586771643 TestBowling.java REMOVE test_isNotScore()/2 METHOD
+RefactoringAction 1494586777658 TestBowling.java ADD void test_isFrameAdded()/2 METHOD
+RefactoringAction 1494586802200 TestBowling.java RENAME test_isFrameAdded()/2=>void test_FirstFrameAdded() METHOD
+RefactoringAction 1494586803712 TestBowling.java RENAME test_FirstFrameAdded()=>void test_First1FrameAdded() METHOD
+RefactoringAction 1494586804721 TestBowling.java RENAME test_First1FrameAdded()=>void test_First1_FrameAdded() METHOD
+RefactoringAction 1494586807733 TestBowling.java RENAME test_First1_FrameAdded()=>void test_First1_Second2FrameAdded() METHOD
+RefactoringAction 1494586810744 TestBowling.java RENAME test_First1_Second2FrameAdded()=>void test_First1_Second2() METHOD
+EditAction 1494586811270 TestBowling.java 1572 8 26 6
