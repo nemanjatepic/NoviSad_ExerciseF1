@@ -5,3 +5,13 @@ RefactoringAction 1494583241824 TestBowling.java RENAME test_()=>void test_isFir
 RefactoringAction 1494583242843 TestBowling.java RENAME test_isFirstTh()=>void test_isFirstThrow() METHOD
 RefactoringAction 1494583245365 TestBowling.java RENAME test_isFirstThrow()=>void test_isFirstThrowStrike() METHOD
 EditAction 1494583295489 TestBowling.java 201 1 0 0
+CompilationAction 1494583303436 TestBowling.java
+CompilationAction 1494583303438 TestBowling.java
+CompilationAction 1494583382161 TestBowling.java
+CompilationAction 1494583382163 TestBowling.java
+UnitTestCaseAction 1494583391213 TestBowling.java OK
+UnitTestSessionAction 1494583391216 TestBowling.java OK
+RefactoringAction 1494583401251 TestBowling.java ADD void test_isFirstThrowStrike()/2 METHOD
+RefactoringAction 1494583406763 TestBowling.java RENAME test_isFirstThrowStrike()/2=>void test_isNotrFirstThrowStrike() METHOD
+RefactoringAction 1494583407773 TestBowling.java RENAME test_isNotrFirstThrowStrike()=>void test_isNotFirstThrowStrike() METHOD
+EditAction 1494583424107 TestBowling.java 336 2 4 2
