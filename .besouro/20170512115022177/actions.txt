@@ -23,3 +23,8 @@ RefactoringAction 1494583533436 TestBowling.java RENAME test_isNotFirstThrowStri
 RefactoringAction 1494583536449 TestBowling.java RENAME test_isFirstThrowStrike()/2=>void test_isFirstThrowSt() METHOD
 RefactoringAction 1494583542472 TestBowling.java RENAME test_isFirstThrowSt()=>void test_isSpare() METHOD
 EditAction 1494583567534 TestBowling.java 448 3 6 3
+UnitTestCaseAction 1494583582486 TestBowling.java OK
+UnitTestSessionAction 1494583582489 TestBowling.java OK
+RefactoringAction 1494583597085 TestBowling.java ADD void test_isSpare()/2 METHOD
+RefactoringAction 1494583600599 TestBowling.java RENAME test_isSpare()/2=>void test_isNotSpare() METHOD
+EditAction 1494583614626 TestBowling.java 558 4 8 4
